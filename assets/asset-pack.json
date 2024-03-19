@@ -1,0 +1,43 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/barrier.png",
+                "type": "image",
+                "key": "barrier"
+            },
+            {
+                "url": "assets/images/gameOverBg.png",
+                "type": "image",
+                "key": "gameOverBg"
+            },
+            {
+                "url": "assets/images/gamePlayBg.png",
+                "type": "image",
+                "key": "gamePlayBg"
+            },
+            {
+                "url": "assets/images/particle.png",
+                "type": "image",
+                "key": "particle"
+            },
+            {
+                "url": "assets/images/replay.png",
+                "type": "image",
+                "key": "replay"
+            },
+            {
+                "url": "assets/images/ship.png",
+                "type": "image",
+                "key": "ship"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
